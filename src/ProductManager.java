@@ -1,5 +1,5 @@
 public class ProductManager extends Employee {
-    private  final static int SALARY_MULTIPLIER = 2;
+    private final static int SALARY_MULTIPLIER = 2;
     private final static int SHARES_PER_YEAR = 100;
     private final static int VACATION_MAX  = 4;
     private final static int VACATION_MIN  = 3;
